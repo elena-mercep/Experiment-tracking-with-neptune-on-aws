@@ -13,6 +13,8 @@ The focus is on leveraging **Neptune** for experiment tracking and model version
 
 ## Repository Contents
 - **Notebook**: A Python notebook to kickstart experiment tracking using Neptune.
+
+The following supporting materials are available upon request. 
 - **Presentation**: Overview of the solution and its architecture.
 - **Document**: Comparison of different experiment tracking solutions.
 
