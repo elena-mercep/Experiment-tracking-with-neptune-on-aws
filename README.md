@@ -15,7 +15,10 @@ The focus is on leveraging **Neptune** for experiment tracking and model version
 - **Notebook**: A Python notebook to kickstart experiment tracking using Neptune.
 
 The following supporting materials are available upon request. 
-- **Presentation**: Overview of the solution and its architecture.
 - **Document**: Comparison of different experiment tracking solutions.
 
 For any further questions or clarifications, feel free to reach out!
+
+## Note
+
+Please be aware that some resources linked in this repository may no longer be available. For context, refer to [OpenAI to acquire Neptune](https://openai.com/index/openai-to-acquire-neptune). For legacy documentation, refer to [Neptune Legacy Docs](https://docs-legacy.neptune.ai/).
